@@ -6,10 +6,7 @@ ____________
 
 Nome dos integrantes: 
 
-* pessoa 1
-* pessoa 2
-* pessoa 3
-* pessoa 4
+* Gabriel Vilaça
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
