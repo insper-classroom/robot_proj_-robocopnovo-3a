@@ -1,0 +1,3 @@
+direita = 50
+esquerda = 150
+meio = 100
