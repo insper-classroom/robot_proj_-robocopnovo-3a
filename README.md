@@ -8,6 +8,10 @@ Nome dos integrantes:
 
 * Gabriel Vilaça
 
+Link das Comprovações:
+
+* Conceito C: https://youtu.be/4Tq_JmNv_-w
+
 
 Visite sempre o enunciado abaixo para atualizacões: 
 
