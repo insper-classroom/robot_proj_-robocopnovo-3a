@@ -19,6 +19,7 @@ Nome dos integrantes:
 Link das Comprovações:
 
 * Conceito C: https://youtu.be/4Tq_JmNv_-w
+* Conceito C (Pista Completa): https://youtu.be/9ma-CFyMHOw 
 * Conceito B+: https://youtu.be/4S59Wkis_Y4
 * Conceito B+/A Completo (Todos os Creepers): https://youtu.be/yfXzSeKKea0
 
