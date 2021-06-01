@@ -14,6 +14,7 @@ Link das Comprovações:
 
 * Conceito C: https://youtu.be/4Tq_JmNv_-w
 * Conceito B+: https://youtu.be/4S59Wkis_Y4
+* Conceito B+/A Completo (Todos os Creepers): https://youtu.be/t8XVt2WFSRs
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
