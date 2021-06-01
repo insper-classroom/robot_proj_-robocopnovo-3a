@@ -6,6 +6,12 @@ Nome do grupo:
 
 ____________
 
+## Instruções 
+Os arquivos dos scripts foram movidos para dentro de pastas referentes aos conceitos para facilitar a organização, mas precisam estar no root caso o código seja rodado pelo catkin. Os códigos a serem rodados são:
+* ConceitoC.py -> pasta Conceito_C (Conceito C)
+* ConceitoB.py -> pasta Conceito_B (Conceito B)
+* ConceitoB+_A.py -> pasta Conceito_B+_A (Conceito B+/A)
+
 Nome dos integrantes: 
 
 * Gabriel Vilaça
